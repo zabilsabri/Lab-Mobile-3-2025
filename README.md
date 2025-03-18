@@ -1,6 +1,6 @@
-# Lab-Mobile-2024
+# Lab-Mobile-2025
 
-# Repositori Tugas Pemrograman Mobile 2024
+# Repositori Tugas Pemrograman Mobile 2025
 
 ## Requirements:
 1. Buat akun GitHub (https://github.com/)
@@ -22,7 +22,7 @@
 
    ```sh
 
-   cd Lab-Mobile-09-2024
+   cd Lab-Mobile-3-2025
    git branch NIM_ANDA
    git checkout NIM_ANDA
    git config user.name USERNAME_GITHUB
